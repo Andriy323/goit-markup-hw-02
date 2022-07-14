@@ -6,7 +6,7 @@
 /* <<<---BODY--->>> */
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
   letter-spacing: 0.02em;
   color: var(--acept-color);
 }
@@ -27,7 +27,7 @@ body {
 
 .logo {
   color: #2196f3;
-  font-family: Raleway, sans-serif;
+  font-family: 'Raleway', sans-serif;
   letter-spacing: 0.03em;
   font-weight: 700;
   font-size: 26px;
